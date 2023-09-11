@@ -2,7 +2,7 @@
 
 Repositorio criado para submeter os codigos da diciplina
 
-#Estrutura de pastas 
+##Estrutura de pastas 
 
 .aulas /: armazena os codigos exemplos das aulas 
 .praticas/: armazenam os codigos das atividades praticas
